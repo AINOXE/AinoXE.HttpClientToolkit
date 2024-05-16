@@ -1,7 +1,6 @@
 ﻿using System.Net.Http.Headers;
-using AinoXE.HttpClientToolkit;
 
-namespace Ainosoft.Net.Http;
+namespace AinoXE.HttpClientToolkit;
 
 public class HttpClientPlus : HttpClient
 {

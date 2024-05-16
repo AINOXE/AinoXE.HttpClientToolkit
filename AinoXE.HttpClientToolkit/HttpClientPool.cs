@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Ainosoft.Net.Http;
+﻿namespace AinoXE.HttpClientToolkit;
 
 public class HttpClientPool(
     Uri baseUri,
